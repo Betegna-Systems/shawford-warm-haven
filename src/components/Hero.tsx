@@ -32,7 +32,7 @@ const Hero = () => {
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 font-['Merriweather'] leading-tight">
-            Where People Matter
+            POMY HAILU
           </h1>
           
           <p className="text-xl md:text-2xl text-white/95 mb-4 leading-relaxed">
